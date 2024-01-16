@@ -8,6 +8,7 @@ Assurez-vous d'avoir Python installé sur votre système. Vous pouvez installer 
 
 ```bash
 pip install pyaudio whisper
+```
 
 ## Utilisation
 
