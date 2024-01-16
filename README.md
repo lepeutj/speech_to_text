@@ -12,7 +12,7 @@ pip install pyaudio whisper
 
 ## Utilisation
 
-1. Exécutez le script `enregistrement_audio.py`.
+1. Exécutez le script `whisp.py`.
 
 2. Le script affichera une liste des périphériques audio disponibles avec leurs identifiants. Identifiez l'ID du périphérique correspondant à votre casque avec microphone.
 
