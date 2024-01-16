@@ -1,6 +1,8 @@
 # Enregistrement Audio avec PyAudio
 
 Ce script Python permet d'enregistrer l'audio à partir d'un périphérique spécifique, tel qu'un casque avec microphone, en utilisant la bibliothèque PyAudio. Le fichier audio enregistré est sauvegardé au format WAV.
+Modèle :
+https://github.com/openai/whisper
 
 ## Prérequis
 
