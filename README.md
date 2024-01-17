@@ -1,4 +1,4 @@
-# Enregistrement Audio avec PyAudio
+# Transcription de l'audio à l'aide de Whisper
 
 Ce script Python permet d'enregistrer l'audio à partir d'un périphérique spécifique, tel qu'un casque avec microphone, en utilisant la bibliothèque PyAudio et de le "traduire" en texte à l'aide d'un modèle de reconnaissance automatique de la langue, en l'occurence Whisper : 
 https://github.com/openai/whisper
